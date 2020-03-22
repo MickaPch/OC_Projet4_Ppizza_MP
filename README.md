@@ -11,8 +11,8 @@ Mise en place d'un nouveau système informatique pour l'ensemble des pizzerias d
 
 *   *Ppizza1_01_specfonctionnelles_perchet.pdf* :  
     Dossier de spécifications fonctionnelles de la mise en place d'un nouveau système informatique pour l'ensemble des pizzerias du groupe **OC Pizza**
-*   *Ppizza1_01_solution_perchet.pdf* :  
-    Document de présentation de la solution du système informatique.
+*   *Ppizza1_02_solution_perchet.pdf* :  
+    Document de présentation de la solution pour la mise en place du système informatique.
 
 
 ### Contexte
